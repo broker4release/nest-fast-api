@@ -12,7 +12,7 @@
 | class-transformer | 0.5.1   |
 | class-validator   | 0.13.2  |
 | pg                | 8.7.3   |
-| typeorm           | 0.3.6   |
+| typeorm           | 0.2.45  |
 | nestjs/typeorm    | 8.0.3   |
 
 ## Installation
