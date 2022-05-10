@@ -6,7 +6,7 @@ export const typeORMConfig: TypeOrmModuleOptions = {
   port: 5432,
   username: "postgres",
   password: "159123",
-  database: "node-fast-api",
+  database: "nest-fast-api",
   entities: [__dirname + "/../**/*.entity.{js,ts}"],
   synchronize: true,
 };
